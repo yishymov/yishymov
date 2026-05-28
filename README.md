@@ -120,12 +120,29 @@ Product Thinking        Practical interfaces built around real user flows
 
 ---
 
-## GitHub Activity
+## GitHub Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yishymov&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yishymov&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend</strong>
+      <br />
+      React · TypeScript · Vue.js
+    </td>
+    <td align="center" width="33%">
+      <strong>UI Engineering</strong>
+      <br />
+      Responsive · Accessible · Polished
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend Basics</strong>
+      <br />
+      NestJS · PostgreSQL · REST API
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -138,7 +155,7 @@ Product Thinking        Practical interfaces built around real user flows
 I am open to frontend opportunities focused on **React**, **TypeScript**, modern UI development and scalable web applications.
 
 📧 **Email:** [yevhen.ishymov@gmail.com](mailto:yevhen.ishymov@gmail.com)
+📱 **Phone:** [+48732682181](mailto:+48732682181)
 🔗 **LinkedIn:** [linkedin.com/in/yishymov](https://www.linkedin.com/in/yishymov)
-💻 **GitHub:** [github.com/yishymov](https://github.com/yishymov)
 
 </div>
